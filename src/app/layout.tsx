@@ -5,7 +5,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Demo dapp starknet",
+  title: "BLessed G Treasury  starknet dapp",
   description:
     "Demo dapp for starknet using starknetjs, starknetkit and starknet-react",
 }
