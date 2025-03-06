@@ -140,7 +140,7 @@ const StarknetDappContent = () => {
       </div>
 
       <a
-        href="https://github.com/argentlabs/demo-dapp-starknet"
+        href="https://github.com/iammasika/demo-dapp-starknet"
         target="_blank"
         rel="noreferrer"
       >
